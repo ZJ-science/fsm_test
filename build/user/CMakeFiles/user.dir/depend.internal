@@ -7,7 +7,9 @@ user/CMakeFiles/user.dir/Fsm/controlFSM.cpp.o
 user/CMakeFiles/user.dir/Fsm/fsm_angry.cpp.o
  /home/zj-robot/projects/fsm_test/user/Fsm/fsm_angry.cpp
 user/CMakeFiles/user.dir/Fsm/fsm_annoyance.cpp.o
+ /home/zj-robot/projects/fsm_test/user/Fsm/controlFSM.h
  /home/zj-robot/projects/fsm_test/user/Fsm/fsm_annoyance.cpp
+ /home/zj-robot/projects/fsm_test/user/Fsm/fsm_annoyance.h
 user/CMakeFiles/user.dir/Fsm/fsm_happy.cpp.o
  /home/zj-robot/projects/fsm_test/user/Fsm/fsm_happy.cpp
 user/CMakeFiles/user.dir/Fsm/fsm_repression.cpp.o

@@ -17,6 +17,12 @@ iostream
 /home/zj-robot/projects/fsm_test/user/Fsm/fsm_angry.cpp
 
 /home/zj-robot/projects/fsm_test/user/Fsm/fsm_annoyance.cpp
+fsm_annoyance.h
+/home/zj-robot/projects/fsm_test/user/Fsm/fsm_annoyance.h
+
+/home/zj-robot/projects/fsm_test/user/Fsm/fsm_annoyance.h
+controlFSM.h
+/home/zj-robot/projects/fsm_test/user/Fsm/controlFSM.h
 
 /home/zj-robot/projects/fsm_test/user/Fsm/fsm_happy.cpp
 

@@ -13,9 +13,9 @@ enum class emotion {//心情  带作用域限制的枚举
   SAD
 };
 
-class fsm_list{
+class Fsm_list{
 public:
-    fsm_list(string str){this->s = str;}
+    Fsm_list(string str){this->s = str;}
     virtual int enter() = 0;
     virtual int transition() = 0;
     virtual void run() = 0;
