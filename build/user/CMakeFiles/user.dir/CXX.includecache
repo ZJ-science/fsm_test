@@ -7,6 +7,22 @@
 #IncludeRegexTransform: 
 
 /home/zj-robot/projects/fsm_test/user/Fsm/controlFSM.cpp
+controlFSM.h
+/home/zj-robot/projects/fsm_test/user/Fsm/controlFSM.h
+
+/home/zj-robot/projects/fsm_test/user/Fsm/controlFSM.h
+iostream
+-
+
+/home/zj-robot/projects/fsm_test/user/Fsm/fsm_angry.cpp
+
+/home/zj-robot/projects/fsm_test/user/Fsm/fsm_annoyance.cpp
+
+/home/zj-robot/projects/fsm_test/user/Fsm/fsm_happy.cpp
+
+/home/zj-robot/projects/fsm_test/user/Fsm/fsm_repression.cpp
+
+/home/zj-robot/projects/fsm_test/user/Fsm/fsm_sad.cpp
 
 /home/zj-robot/projects/fsm_test/user/include/main_helper.h
 iostream
