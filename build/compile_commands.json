@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/zj-robot/projects/fsm_test/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/fsm_test.dir/main.cpp.o -c /home/zj-robot/projects/fsm_test/main.cpp",
+  "file": "/home/zj-robot/projects/fsm_test/main.cpp"
+},
+{
+  "directory": "/home/zj-robot/projects/fsm_test/build/user",
+  "command": "/usr/bin/c++  -Duser_EXPORTS -I/home/zj-robot/projects/fsm_test/build -I/home/zj-robot/projects/fsm_test  -g -fPIC   -o CMakeFiles/user.dir/Fsm/controlFSM.cpp.o -c /home/zj-robot/projects/fsm_test/user/Fsm/controlFSM.cpp",
+  "file": "/home/zj-robot/projects/fsm_test/user/Fsm/controlFSM.cpp"
+},
+{
+  "directory": "/home/zj-robot/projects/fsm_test/build/user",
+  "command": "/usr/bin/c++  -Duser_EXPORTS -I/home/zj-robot/projects/fsm_test/build -I/home/zj-robot/projects/fsm_test  -g -fPIC   -o CMakeFiles/user.dir/Fsm/fsm_angry.cpp.o -c /home/zj-robot/projects/fsm_test/user/Fsm/fsm_angry.cpp",
+  "file": "/home/zj-robot/projects/fsm_test/user/Fsm/fsm_angry.cpp"
+},
+{
+  "directory": "/home/zj-robot/projects/fsm_test/build/user",
+  "command": "/usr/bin/c++  -Duser_EXPORTS -I/home/zj-robot/projects/fsm_test/build -I/home/zj-robot/projects/fsm_test  -g -fPIC   -o CMakeFiles/user.dir/Fsm/fsm_annoyance.cpp.o -c /home/zj-robot/projects/fsm_test/user/Fsm/fsm_annoyance.cpp",
+  "file": "/home/zj-robot/projects/fsm_test/user/Fsm/fsm_annoyance.cpp"
+},
+{
+  "directory": "/home/zj-robot/projects/fsm_test/build/user",
+  "command": "/usr/bin/c++  -Duser_EXPORTS -I/home/zj-robot/projects/fsm_test/build -I/home/zj-robot/projects/fsm_test  -g -fPIC   -o CMakeFiles/user.dir/Fsm/fsm_happy.cpp.o -c /home/zj-robot/projects/fsm_test/user/Fsm/fsm_happy.cpp",
+  "file": "/home/zj-robot/projects/fsm_test/user/Fsm/fsm_happy.cpp"
+},
+{
+  "directory": "/home/zj-robot/projects/fsm_test/build/user",
+  "command": "/usr/bin/c++  -Duser_EXPORTS -I/home/zj-robot/projects/fsm_test/build -I/home/zj-robot/projects/fsm_test  -g -fPIC   -o CMakeFiles/user.dir/Fsm/fsm_repression.cpp.o -c /home/zj-robot/projects/fsm_test/user/Fsm/fsm_repression.cpp",
+  "file": "/home/zj-robot/projects/fsm_test/user/Fsm/fsm_repression.cpp"
+},
+{
+  "directory": "/home/zj-robot/projects/fsm_test/build/user",
+  "command": "/usr/bin/c++  -Duser_EXPORTS -I/home/zj-robot/projects/fsm_test/build -I/home/zj-robot/projects/fsm_test  -g -fPIC   -o CMakeFiles/user.dir/Fsm/fsm_sad.cpp.o -c /home/zj-robot/projects/fsm_test/user/Fsm/fsm_sad.cpp",
+  "file": "/home/zj-robot/projects/fsm_test/user/Fsm/fsm_sad.cpp"
+},
+{
+  "directory": "/home/zj-robot/projects/fsm_test/build/user",
+  "command": "/usr/bin/c++  -Duser_EXPORTS -I/home/zj-robot/projects/fsm_test/build -I/home/zj-robot/projects/fsm_test  -g -fPIC   -o CMakeFiles/user.dir/src/main_helper.cpp.o -c /home/zj-robot/projects/fsm_test/user/src/main_helper.cpp",
+  "file": "/home/zj-robot/projects/fsm_test/user/src/main_helper.cpp"
+}
+]

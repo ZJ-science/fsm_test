@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.6)
 project(fsm_test)
-
-add_executable(fsm_test main.cpp)
-
+add_subdirectory(user)
+add_executable(fsm_test main.cpp )
+target_link_libraries(fsm_test user)
 install(TARGETS fsm_test RUNTIME DESTINATION bin)

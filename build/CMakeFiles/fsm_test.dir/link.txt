@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/fsm_test.dir/main.cpp.o  -o fsm_test -Wl,-rpath,/home/zj-robot/projects/fsm_test/build/user: user/libuser.so 

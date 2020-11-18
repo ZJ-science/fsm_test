@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zj-robot/projects/fsm_test/main.cpp
+iostream
+-
+user/include/main_helper.h
+/home/zj-robot/projects/fsm_test/user/include/main_helper.h
+
+/home/zj-robot/projects/fsm_test/user/include/main_helper.h
+iostream
+-
+

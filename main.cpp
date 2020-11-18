@@ -1,6 +1,9 @@
 #include <iostream>
+#include "user/include/main_helper.h"
+
 
 int main(int argc, char **argv) {
-    std::cout << "Hello, world!" << std::endl;
+    if(!main_helper())
+        cout<<"成功"<<endl;
     return 0;
 }
