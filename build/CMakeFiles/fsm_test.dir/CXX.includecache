@@ -1,4 +1,4 @@
-#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
 
 #IncludeRegexScan: ^.*$
 
@@ -6,13 +6,55 @@
 
 #IncludeRegexTransform: 
 
-/home/zj-robot/projects/fsm_test/main.cpp
+/home/ZJ/projects/fsm_test/main.cpp
 iostream
 -
 user/include/main_helper.h
-/home/zj-robot/projects/fsm_test/user/include/main_helper.h
+/home/ZJ/projects/fsm_test/user/include/main_helper.h
 
-/home/zj-robot/projects/fsm_test/user/include/main_helper.h
+/home/ZJ/projects/fsm_test/user/Fsm/Fsm_states.h
 iostream
 -
+
+/home/ZJ/projects/fsm_test/user/Fsm/controlFSM.h
+iostream
+-
+Fsm_states.h
+/home/ZJ/projects/fsm_test/user/Fsm/Fsm_states.h
+fsm_angry.h
+/home/ZJ/projects/fsm_test/user/Fsm/fsm_angry.h
+fsm_annoyance.h
+/home/ZJ/projects/fsm_test/user/Fsm/fsm_annoyance.h
+fsm_happy.h
+/home/ZJ/projects/fsm_test/user/Fsm/fsm_happy.h
+fsm_repression.h
+/home/ZJ/projects/fsm_test/user/Fsm/fsm_repression.h
+fsm_sad.h
+/home/ZJ/projects/fsm_test/user/Fsm/fsm_sad.h
+
+/home/ZJ/projects/fsm_test/user/Fsm/fsm_angry.h
+Fsm_states.h
+/home/ZJ/projects/fsm_test/user/Fsm/Fsm_states.h
+
+/home/ZJ/projects/fsm_test/user/Fsm/fsm_annoyance.h
+Fsm_states.h
+/home/ZJ/projects/fsm_test/user/Fsm/Fsm_states.h
+
+/home/ZJ/projects/fsm_test/user/Fsm/fsm_happy.h
+Fsm_states.h
+/home/ZJ/projects/fsm_test/user/Fsm/Fsm_states.h
+
+/home/ZJ/projects/fsm_test/user/Fsm/fsm_repression.h
+Fsm_states.h
+/home/ZJ/projects/fsm_test/user/Fsm/Fsm_states.h
+
+/home/ZJ/projects/fsm_test/user/Fsm/fsm_sad.h
+Fsm_states.h
+/home/ZJ/projects/fsm_test/user/Fsm/Fsm_states.h
+
+/home/ZJ/projects/fsm_test/user/include/main_helper.h
+iostream
+-
+../Fsm/controlFSM.h
+/home/ZJ/projects/fsm_test/user/Fsm/controlFSM.h
 

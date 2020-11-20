@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 2.6)
+cmake_minimum_required(VERSION 3.5)
 project(fsm_test)
 add_subdirectory(user)
 add_executable(fsm_test main.cpp )
